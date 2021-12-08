@@ -5,4 +5,4 @@ id: digital garden
 permalink: digital_garden
 ---
 
-cosa è un digital garden?
+Cosa è un digital garden?
