@@ -2,7 +2,7 @@
 layout: page
 title: digital garden
 id: digital garden
-permalink: digital_garden
+permalink: digital
 ---
 
 cosa è un digital garden?
