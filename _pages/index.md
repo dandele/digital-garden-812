@@ -10,7 +10,6 @@ permalink: /
 Sono [[Daniele D'Amico]] e questo è il mio [[digital garden]] ed è da questa pagina che puoi partire nella tua esplorazione della mia mente, digitale.
 
 Mi raccomando: cerca di non perderti!
-[[prova]]
 </p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
