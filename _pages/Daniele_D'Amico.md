@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Home
-id: daniele
+id: daniele_d'amico
 permalink: Daniele_D'Amico
 ---
