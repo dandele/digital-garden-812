@@ -2,5 +2,5 @@
 layout: page
 title: Prova
 id: prova
-permalink: /
+permalink: prova
 ---
