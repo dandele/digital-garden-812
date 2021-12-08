@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: About
 id: Daniele D'Amico
 permalink: Daniele D'Amico
 ---
