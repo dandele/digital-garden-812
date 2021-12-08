@@ -7,7 +7,7 @@ permalink: /
 # Ciao 👋
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-Sono [[Daniele]] e questo è il mio [[digital garden].
+Sono [[Daniele]] e questo è il mio [digital garden].
 <br>Da questa pagina puoi partire nella tua esplorazione della mia mente, digitale. [[prova]]
 
 Mi raccomando: cerca di non perderti!
