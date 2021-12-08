@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Prova
-id: home
+id: prova
 permalink: /
 ---
