@@ -7,7 +7,7 @@ permalink: /
 # Ciao 👋
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-Sono [[Daniele_D'Amico]] e questo è il mio [[digital garden]] ed è da questa pagina che puoi partire nella tua esplorazione della mia mente, digitale. [[prova]]
+Sono [[Daniele]] e questo è il mio [[digital garden]] ed è da questa pagina che puoi partire nella tua esplorazione della mia mente, digitale. [[prova]]
 
 Mi raccomando: cerca di non perderti!
 
