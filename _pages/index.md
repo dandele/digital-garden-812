@@ -7,7 +7,7 @@ permalink: /
 # Ciao 👋
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-Questo è il mio digital garden
+Questo è il mio [[digital garden]]
 [[prova]]
 </p>
 
