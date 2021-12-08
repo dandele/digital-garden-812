@@ -1,7 +1,7 @@
 ---
 layout: page
 title: chi_sono
-id: daniele_damico
+id: daniele
 permalink: daniele_damico
 ---
 
