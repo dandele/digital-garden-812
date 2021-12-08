@@ -2,5 +2,5 @@
 layout: page
 title: Home
 id: home
-permalink: /
+permalink: digital_garden
 ---
