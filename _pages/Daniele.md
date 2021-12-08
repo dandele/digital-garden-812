@@ -2,7 +2,7 @@
 layout: page
 title: chi_sono
 id: daniele_d'amico
-permalink: Daniele_
+permalink: Daniele_damico
 ---
 
 prova
