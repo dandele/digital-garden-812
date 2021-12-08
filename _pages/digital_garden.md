@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: digital garden
 id: digital garden
 permalink: digital_garden
 ---
